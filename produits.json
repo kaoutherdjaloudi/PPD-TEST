@@ -1,0 +1,58 @@
+[
+    {
+        "nom": "Dell Latitude 5420",
+        "categorie": "Laptop",
+        "description": "Dell Latitude 5420 Business Laptop with Intel Core i7 and 16GB RAM.",
+        "prix": "65000Da",
+        "image": "pic/dell.jpg"
+    },
+    {
+        "nom": "Apple iPad Pro",
+        "categorie": "Tablette",
+        "description": "Apple iPad Pro 11-inch with M1 Chip and 128GB Storage.",
+        "prix": "120000Da",
+        "image": "pic/ipad1.jpg"
+    },
+    {
+        "nom": "Samsung Galaxy Watch 5",
+        "categorie": "Smartwatch",
+        "description": "Samsung Galaxy Watch 5 with advanced health monitoring features.",
+        "prix": "45000Da",
+        "image": "pic/watch.jpg"
+    },
+    {
+        "nom": "Canon EOS R6",
+        "categorie": "Camera",
+        "description": "Canon EOS R6 Full-Frame Mirrorless Camera with 20MP sensor.",
+        "prix": "250000Da",
+        "image": "pic/canon2.jpg"
+    },
+    {
+        "nom": "PlayStation 5",
+        "categorie": "Console Gaming",
+        "description": "Sony PlayStation 5 with ultra-high-speed SSD and immersive graphics.",
+        "prix": "145000Da",
+        "image": "pic/play5.jpg"
+    },
+    {
+        "nom": "HP Envy 15",
+        "categorie": "Laptop",
+        "description": "HP Envy 15 with Intel Core i9, 32GB RAM, and NVIDIA GeForce RTX 3060.",
+        "prix": "95000Da",
+        "image": "pic/hp.jpg"
+    },
+    {
+        "nom": "GoPro Hero 10",
+        "categorie": "Camera",
+        "description": "GoPro Hero 10 Black with 5.3K video and advanced stabilization.",
+        "prix": "85000Da",
+        "image": "pic/gopro.jpg"
+    },
+    {
+        "nom": "Xiaomi Mi Band 7",
+        "categorie": "Smartwatch",
+        "description": "Xiaomi Mi Band 7 with fitness tracking and AMOLED display.",
+        "prix": "8000Da",
+        "image": "pic/mi.jpg"
+    }
+]
